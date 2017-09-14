@@ -25,7 +25,7 @@ class Quotes extends CI_Model
 			'what'	 => 'Goodbye, virgin alarm.'),
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
-        '7'  => array('who' => 'Kimberly Ann Hart', 'role' => 'Pink Ranger',
+        '7'  => array('who' => 'Pink Ranger', 'role' => 'Pink Ranger',
             'what' => 'It\'s morphin\' time~')
 	);
 
