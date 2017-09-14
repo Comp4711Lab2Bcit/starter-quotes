@@ -3,5 +3,8 @@
         <a href="/welcome/show/{key}">
             <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
         </a>
+        <p>{who}</p>
+        <p>{role}</p>
+        <p>{what}</p>
     </div>
 </div>
