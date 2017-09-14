@@ -1,6 +1,9 @@
-#changelog
-Team Members
+# changelog
+
+
 New Additions from Bottom to Top
+
+
 [Captain] Clinton Bock
 [First Mate] Niko Arrelano
 
